@@ -33,3 +33,12 @@ GOOGLE_API_KEY=your_google_gemini_key
 
 * Run the App:
 streamlit run app.py
+
+
+📄 How It Works
+
+- Enter your destination(s) and trip details (number of days, budget, number of people, etc.).
+- Select your travel preferences (adventure, food, culture, etc.).
+- Click "Generate Itinerary" to create your plan.
+- View your trip details, weather updates, and an interactive map.
+- Download your personalized itinerary as a PDF
